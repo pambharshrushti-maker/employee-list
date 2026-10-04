@@ -1,0 +1,184 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "age": 25,
+      "department": "IT",
+      "salary": 45000,
+      "location": "Ahmedabad"
+    },
+    {
+      "id": 2,
+      "name": "Vivaan Patel",
+      "email": "vivaan.patel@example.com",
+      "age": 28,
+      "department": "HR",
+      "salary": 52000,
+      "location": "Rajkot"
+    },
+    {
+      "id": 3,
+      "name": "Aditya Shah",
+      "email": "aditya.shah@example.com",
+      "age": 30,
+      "department": "Finance",
+      "salary": 60000,
+      "location": "Surat"
+    },
+    {
+      "id": 4,
+      "name": "Arjun Mehta",
+      "email": "arjun.mehta@example.com",
+      "age": 26,
+      "department": "Marketing",
+      "salary": 48000,
+      "location": "Vadodara"
+    },
+    {
+      "id": 5,
+      "name": "Reyansh Joshi",
+      "email": "reyansh.joshi@example.com",
+      "age": 32,
+      "department": "IT",
+      "salary": 72000,
+      "location": "Gandhinagar"
+    },
+    {
+      "id": 6,
+      "name": "Krish Patel",
+      "email": "krish.patel@example.com",
+      "age": 27,
+      "department": "Sales",
+      "salary": 41000,
+      "location": "Rajkot"
+    },
+    {
+      "id": 7,
+      "name": "Rudra Desai",
+      "email": "rudra.desai@example.com",
+      "age": 29,
+      "department": "IT",
+      "salary": 58000,
+      "location": "Ahmedabad"
+    },
+    {
+      "id": 8,
+      "name": "Dhruv Joshi",
+      "email": "dhruv.joshi@example.com",
+      "age": 31,
+      "department": "Finance",
+      "salary": 65000,
+      "location": "Surat"
+    },
+    {
+      "id": 9,
+      "name": "Kavya Shah",
+      "email": "kavya.shah@example.com",
+      "age": 24,
+      "department": "HR",
+      "salary": 42000,
+      "location": "Vadodara"
+    },
+    {
+      "id": 10,
+      "name": "Ananya Patel",
+      "email": "ananya.patel@example.com",
+      "age": 26,
+      "department": "Marketing",
+      "salary": 47000,
+      "location": "Rajkot"
+    },
+    {
+      "id": 11,
+      "name": "Ishaan Mehta",
+      "email": "ishaan.mehta@example.com",
+      "age": 33,
+      "department": "IT",
+      "salary": 78000,
+      "location": "Ahmedabad"
+    },
+    {
+      "id": 12,
+      "name": "Diya Shah",
+      "email": "diya.shah@example.com",
+      "age": 25,
+      "department": "Sales",
+      "salary": 44000,
+      "location": "Surat"
+    },
+    {
+      "id": 13,
+      "name": "Yash Patel",
+      "email": "yash.patel@example.com",
+      "age": 29,
+      "department": "Finance",
+      "salary": 61000,
+      "location": "Gandhinagar"
+    },
+    {
+      "id": 14,
+      "name": "Riya Desai",
+      "email": "riya.desai@example.com",
+      "age": 27,
+      "department": "HR",
+      "salary": 50000,
+      "location": "Ahmedabad"
+    },
+    {
+      "id": 15,
+      "name": "Harsh Joshi",
+      "email": "harsh.joshi@example.com",
+      "age": 34,
+      "department": "IT",
+      "salary": 82000,
+      "location": "Rajkot"
+    },
+    {
+      "id": 16,
+      "name": "Mahi Patel",
+      "email": "mahi.patel@example.com",
+      "age": 23,
+      "department": "Marketing",
+      "salary": 39000,
+      "location": "Vadodara"
+    },
+    {
+      "id": 17,
+      "name": "Dev Shah",
+      "email": "dev.shah@example.com",
+      "age": 28,
+      "department": "Sales",
+      "salary": 46000,
+      "location": "Surat"
+    },
+    {
+      "id": 18,
+      "name": "Krisha Mehta",
+      "email": "krisha.mehta@example.com",
+      "age": 30,
+      "department": "Finance",
+      "salary": 67000,
+      "location": "Ahmedabad"
+    },
+    {
+      "id": 19,
+      "name": "Meet Patel",
+      "email": "meet.patel@example.com",
+      "age": 26,
+      "department": "IT",
+      "salary": 55000,
+      "location": "Gandhinagar"
+    },
+    {
+      "id": 20,
+      "name": "Avni Shah",
+      "email": "avni.shah@example.com",
+      "age": 29,
+      "department": "HR",
+      "salary": 53000,
+      "location": "Rajkot"
+    }
+  ]
+}
